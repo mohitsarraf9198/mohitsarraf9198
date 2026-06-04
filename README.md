@@ -86,10 +86,14 @@ actively building. each project gets documented here as it gets done.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohitsarraf9198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars&rank_icon=github&cache_seconds=1800" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsarraf9198&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohitsarraf9198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="160"/>
 
-<br/>
+<br/><br/>
+
+<!-- horizontal language bar — auto-detects from all repos, calibrates as you add more projects -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsarraf9198&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=mohitsarraf9198&theme=tokyonight&hide_border=true" height="150"/>
 
@@ -101,7 +105,7 @@ actively building. each project gets documented here as it gets done.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohitsarraf9198&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=mohitsarraf9198&theme=nord&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" />
 
 </div>
 
