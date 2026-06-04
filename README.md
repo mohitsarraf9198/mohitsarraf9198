@@ -86,12 +86,12 @@ actively building. each project gets documented here as it gets done.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohitsarraf9198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars&rank_icon=github" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohitsarraf9198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars&rank_icon=github&cache_seconds=1800" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsarraf9198&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsarraf9198&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://streak-stats.demolab.com/?user=mohitsarraf9198&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
 
@@ -127,13 +127,14 @@ actively building. each project gets documented here as it gets done.
 
 ### 🗺 where i'm headed
 
-```
-[██████░░░░░░░░░░░░░░]  foundations — arduino, C/C++, python
-[████░░░░░░░░░░░░░░░░]  control theory — PID, feedback loops
-[██░░░░░░░░░░░░░░░░░░]  computer vision — opencv
-[█░░░░░░░░░░░░░░░░░░░]  ROS2
-[░░░░░░░░░░░░░░░░░░░░]  full autonomous systems → startup 🚀
-```
+| | | |
+|:---:|:---|:---|
+| ✅ | **foundations** | arduino, C/C++, python basics |
+| 🔄 | **embedded systems** | timers, interrupts, sensors |
+| ⏳ | **control theory** | PID, feedback loops |
+| ⏳ | **computer vision** | opencv, camera integration |
+| ⏳ | **ROS2** | robot operating system |
+| 🎯 | **robotics startup** | the goal |
 
 ---
 
