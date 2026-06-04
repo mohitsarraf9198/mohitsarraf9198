@@ -59,7 +59,7 @@ and figure out why they broke.
 <tr>
 <td width="50%">
 
-**[line following robot](https://github.com/mohit-sarraf/line-following-robot)**
+**[line following robot](https://github.com/mohitsarraf9198/line-following-robot)**
 
 my first build. robot that follows a black line using IR sensors. broke the L298N 5V rail on day one, debugged it with a multimeter, fixed it with a buck converter.
 
@@ -86,12 +86,12 @@ actively building. each project gets documented here as it gets done.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohit-sarraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars&rank_icon=github" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-sarraf&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohitsarraf9198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars&rank_icon=github" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsarraf9198&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-sarraf&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsarraf9198&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
 
@@ -101,7 +101,7 @@ actively building. each project gets documented here as it gets done.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohit-sarraf&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=mohitsarraf9198&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -111,7 +111,7 @@ actively building. each project gets documented here as it gets done.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit-sarraf&bg_color=1a1b27&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitsarraf9198&bg_color=1a1b27&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -120,7 +120,7 @@ actively building. each project gets documented here as it gets done.
 ### 🐍 eating my contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mohit-sarraf/mohit-sarraf/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mohitsarraf9198/Mohit-Sarraf/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
@@ -139,10 +139,10 @@ actively building. each project gets documented here as it gets done.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-sarraf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitsarraf9198)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitsarraf@gmail.com)
 
-![views](https://komarev.com/ghpvc/?username=mohit-sarraf&color=00D4FF&style=flat-square&label=profile+views)
+![views](https://komarev.com/ghpvc/?username=mohitsarraf9198&color=00D4FF&style=flat-square&label=profile+views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D4FF,100:0d1117&height=100&section=footer" />
 
