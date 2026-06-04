@@ -7,7 +7,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=480&lines=aspiring+robotics+engineer+%F0%9F%A4%96;learning+by+breaking+things+%F0%9F"  alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=480&lines=into+robotics+%F0%9F%A4%96;learning+by+breaking+things+%F0%9F%94%A7;building+from+scratch+%F0%9F%9A%80" alt="typing" />
   </a>
 
 </div>
@@ -90,23 +90,12 @@ actively building. each project gets documented here as it gets done.
 
 <br/><br/>
 
-<!-- horizontal language bar — auto-detects from all repos, recalibrates as you push new projects -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsarraf9198&layout=compact&langs_count=8&card_width=500&bg_color=0d1117&title_color=39d353&text_color=39d353&border_color=39d353&border_radius=10" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitsarraf9198&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitsarraf9198&theme=tokyonight" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitsarraf9198&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitsarraf9198&theme=tokyonight&utcOffset=5.5" height="180"/>
-
-</div>
-
----
-
-### 🧰 tools & hardware i use
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,arduino,git,github,vscode&theme=dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitsarraf9198&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
@@ -130,23 +119,10 @@ actively building. each project gets documented here as it gets done.
 
 ---
 
-### 🗺 where i'm headed
-
-| | | |
-|:---:|:---|:---|
-| ✅ | **foundations** | arduino, C/C++, python basics |
-| 🔄 | **embedded systems** | timers, interrupts, sensors |
-| ⏳ | **control theory** | PID, feedback loops |
-| ⏳ | **computer vision** | opencv, camera integration |
-| ⏳ | **ROS2** | robot operating system |
-| 🎯 | **robotics startup** | the goal |
-
----
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitsarraf9198)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitsarraf@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-sarraf-054a10277/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitsarrafofficial@gmail.com)
 
 ![views](https://komarev.com/ghpvc/?username=mohitsarraf9198&color=00D4FF&style=flat-square&label=profile+views)
 
