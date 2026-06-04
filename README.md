@@ -91,7 +91,7 @@ actively building. each project gets documented here as it gets done.
 <br/><br/>
 
 <!-- horizontal language bar — auto-detects from all repos, recalibrates as you push new projects -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsarraf9198&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsarraf9198&layout=compact&langs_count=8&card_width=500&bg_color=0d1117&title_color=39d353&text_color=39d353&border_color=39d353&border_radius=10" />
 
 <br/>
 
@@ -102,11 +102,11 @@ actively building. each project gets documented here as it gets done.
 
 ---
 
-### 🏆 trophies
+### 🧰 tools & hardware i use
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohitsarraf9198&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,arduino,git,github,vscode&theme=dark" />
 
 </div>
 
