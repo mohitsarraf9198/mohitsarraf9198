@@ -90,9 +90,8 @@ actively building. each project gets documented here as it gets done.
 
 <br/><br/>
 
-<!-- language bar — auto-detects from all repos, updates as you push new projects -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitsarraf9198&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitsarraf9198&theme=tokyonight" height="180"/>
+<!-- horizontal language bar — auto-detects from all repos, recalibrates as you push new projects -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsarraf9198&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" />
 
 <br/>
 
