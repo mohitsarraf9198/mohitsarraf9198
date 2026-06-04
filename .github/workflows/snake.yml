@@ -1,13 +1,12 @@
-# Put this file at:
-# .github/workflows/snake.yml
-# inside your mohit-sarraf/mohit-sarraf profile repo
-
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
-  workflow_dispatch:        # lets you trigger it manually too
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write        # THIS was missing — caused the exit code 128 error
 
 jobs:
   generate:
@@ -20,7 +19,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v4    # updated v3 → v4 (fixes Node.js warning)
         with:
           target_branch: output
           build_dir: dist
