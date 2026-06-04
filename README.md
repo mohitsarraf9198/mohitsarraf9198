@@ -86,16 +86,18 @@ actively building. each project gets documented here as it gets done.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohitsarraf9198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="160"/>
-
-<br/><br/>
-
-<!-- horizontal language bar — auto-detects from all repos, calibrates as you add more projects -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsarraf9198&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com/?user=mohitsarraf9198&theme=tokyonight&hide_border=true" height="150"/>
+
+<br/><br/>
+
+<!-- language bar — auto-detects from all repos, updates as you push new projects -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitsarraf9198&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitsarraf9198&theme=tokyonight" height="180"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitsarraf9198&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitsarraf9198&theme=tokyonight&utcOffset=5.5" height="180"/>
 
 </div>
 
@@ -105,7 +107,7 @@ actively building. each project gets documented here as it gets done.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohitsarraf9198&theme=nord&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=mohitsarraf9198&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 
 </div>
 
