@@ -24,7 +24,7 @@ not the guy who watches 10 courses before starting.
 i just pick up components, break things, fix them,  
 and figure out why they broke.
 
-**the goal:** build a startup in robotics someday.  
+**the goal:** build a startup in robotics.  
 **right now:** understand how everything works from scratch.
 
 ```
