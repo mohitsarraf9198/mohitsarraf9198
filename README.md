@@ -122,7 +122,7 @@ actively building. each project gets documented here as it gets done.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-sarraf-054a10277/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitsarrafofficial@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitsarraf@gmail.com)
 
 ![views](https://komarev.com/ghpvc/?username=mohitsarraf9198&color=00D4FF&style=flat-square&label=profile+views)
 
