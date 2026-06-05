@@ -32,7 +32,7 @@ and figure out why they broke.
 🔭 building → line following robot
 📖 learning → embedded systems + control theory
 🎯 next → ROS2 + computer vision
-💡 approach → build first, understand deeper later
+
 ```
 
 <br clear="right"/>
