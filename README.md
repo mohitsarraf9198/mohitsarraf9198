@@ -14,20 +14,16 @@
 
 ---
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ### hey, i'm mohit 👋
 
 i'm into robotics — still early days, building the foundation.
 
-not the guy who watches 10 courses before starting.  
-i just pick up components, break things, fix them,  
+not the guy who watches 10 courses before starting.
+i just pick up components, break things, fix them,
 and figure out why they broke.
 
-**the goal:** build a startup in robotics.  
+**the goal:** build a startup in robotics.
 **right now:** understand how everything works from scratch.
-
-<br clear="right"/>
 
 ---
 
@@ -85,28 +81,6 @@ actively building. each project gets documented here as it gets done.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitsarraf9198&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitsarraf9198&theme=tokyonight" />
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitsarraf9198&theme=tokyonight&utcOffset=5.5" />
-
-</div>
-
----
-
-### 📈 activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitsarraf9198&bg_color=1a1b27&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-### 🐍 eating my contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mohitsarraf9198/Mohit-Sarraf/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
