@@ -27,14 +27,6 @@ and figure out why they broke.
 **the goal:** build a startup in robotics.  
 **right now:** understand how everything works from scratch.
 
-```
-📍 India
-🔭 building → line following robot
-📖 learning → embedded systems + control theory
-🎯 next → ROS2 + computer vision
-
-```
-
 <br clear="right"/>
 
 ---
