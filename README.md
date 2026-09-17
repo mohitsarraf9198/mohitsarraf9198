@@ -16,14 +16,12 @@
 
 ### hey, i'm mohit 👋
 
-i'm into robotics — still early days, building the foundation.
+I'm a Mechanical & Sustainable Engineering student building a foundation in robotics.
 
-not the guy who watches 10 courses before starting.
-i just pick up components, break things, fix them,
-and figure out why they broke.
+My approach is hands-on: I build, take things apart, debug what fails, and learn the underlying principles as I go — rather than starting with theory alone.
 
-**the goal:** build a startup in robotics.
-**right now:** understand how everything works from scratch.
+**Long-term goal:** build a startup in robotics.
+**Right now:** developing strong fundamentals in mechanics, electronics, and control systems.
 
 ---
 
