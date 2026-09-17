@@ -51,7 +51,7 @@ my first build. robot that follows a black line using IR sensors. broke the L298
 
 `Arduino` `C++` `L298N` `IR Sensors`
 
-**status:** ✅ working · 🟡 tuning track contrast
+**status:** ✅ working
 
 </td>
 <td width="50%">
