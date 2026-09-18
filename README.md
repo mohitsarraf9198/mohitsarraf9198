@@ -56,12 +56,9 @@ my first build. robot that follows a black line using IR sensors. broke the L298
 </td>
 <td width="50%">
 
-**more coming soon...**
+**[twin-motor-RC-plane]([https://github.com/mohitsarraf9198/line-following-robot](https://github.com/mohitsarraf9198/twin-motor-RC-plane)**
 
-actively building. each project gets documented here as it gets done.
-
-`stay tuned`
-
+Tried to build a RC aircraft which controlled by the transmitter. everything worked properly until the weight imbalance made it crashed. But still learned alot about AERODYNAMICS, Center of Gravity, components uses.
 </td>
 </tr>
 </table>
